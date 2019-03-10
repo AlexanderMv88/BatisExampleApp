@@ -1,0 +1,52 @@
+2019-03-10 10:32:33.491  INFO 27434 --- [main] org.BatisExampleApp.BatisPetTests        : Starting BatisPetTests on pc with PID 27434 (started by user in /mnt/Other/workspace/java/Spring.BOOT/BatisExampleApp)
+2019-03-10 10:32:33.492  INFO 27434 --- [main] org.BatisExampleApp.BatisPetTests        : No active profile set, falling back to default profiles: default
+2019-03-10 10:32:36.343  INFO 27434 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-10 10:32:36.706  INFO 27434 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-10 10:32:37.339  INFO 27434 --- [main] org.BatisExampleApp.BatisPetTests        : Started BatisPetTests in 4.199 seconds (JVM running for 5.376)
+2019-03-10 10:32:37.890  INFO 27434 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-10 10:32:37.896  INFO 27434 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-10 10:35:51.472  INFO 27745 --- [main] org.BatisExampleApp.BatisPetTests        : Starting BatisPetTests on pc with PID 27745 (started by user in /mnt/Other/workspace/java/Spring.BOOT/BatisExampleApp)
+2019-03-10 10:35:51.473  INFO 27745 --- [main] org.BatisExampleApp.BatisPetTests        : No active profile set, falling back to default profiles: default
+2019-03-10 10:35:53.874  INFO 27745 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-10 10:35:54.282  INFO 27745 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-10 10:35:54.688  INFO 27745 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-10 10:35:55.388  INFO 27745 --- [main] org.BatisExampleApp.BatisPetTests        : Started BatisPetTests in 4.239 seconds (JVM running for 5.464)
+2019-03-10 10:35:55.934  INFO 27745 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-10 10:35:55.938  INFO 27745 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-10 10:35:55.939  INFO 27745 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-10 10:37:54.087  INFO 28139 --- [main] org.BatisExampleApp.BatisPetTests        : Starting BatisPetTests on pc with PID 28139 (started by user in /mnt/Other/workspace/java/Spring.BOOT/BatisExampleApp)
+2019-03-10 10:37:54.088  INFO 28139 --- [main] org.BatisExampleApp.BatisPetTests        : No active profile set, falling back to default profiles: default
+2019-03-10 10:37:56.660  INFO 28139 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-10 10:37:57.126  INFO 28139 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-10 10:37:57.519  INFO 28139 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-10 10:37:58.298  INFO 28139 --- [main] org.BatisExampleApp.BatisPetTests        : Started BatisPetTests in 4.552 seconds (JVM running for 5.788)
+2019-03-10 10:37:59.012  INFO 28139 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-10 10:37:59.020  INFO 28139 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-10 10:37:59.021  INFO 28139 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-10 10:38:28.854  INFO 28261 --- [main] o.B.BatisPetTests                        : Starting BatisPetTests on pc with PID 28261 (started by user in /mnt/Other/workspace/java/Spring.BOOT/BatisExampleApp)
+2019-03-10 10:38:28.898  INFO 28261 --- [main] o.B.BatisPetTests                        : No active profile set, falling back to default profiles: default
+2019-03-10 10:38:31.368  INFO 28261 --- [main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-10 10:38:31.930  INFO 28261 --- [main] c.z.h.HikariDataSource                   : HikariPool-1 - Starting...
+2019-03-10 10:38:32.199  INFO 28261 --- [main] c.z.h.HikariDataSource                   : HikariPool-1 - Start completed.
+2019-03-10 10:38:32.988  INFO 28261 --- [main] o.B.BatisPetTests                        : Started BatisPetTests in 4.627 seconds (JVM running for 6.216)
+2019-03-10 10:38:33.603  INFO 28261 --- [Thread-2] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown initiated...
+2019-03-10 10:38:33.608  INFO 28261 --- [Thread-2] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown completed.
+2019-03-10 10:38:33.609  INFO 28261 --- [Thread-2] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-10 10:42:20.205  INFO 28946 --- [main] org.BatisExampleApp.BatisPetTests        : Starting BatisPetTests on pc with PID 28946 (started by user in /mnt/Other/workspace/java/Spring.BOOT/BatisExampleApp)
+2019-03-10 10:42:20.236  INFO 28946 --- [main] org.BatisExampleApp.BatisPetTests        : No active profile set, falling back to default profiles: default
+2019-03-10 10:42:22.980  INFO 28946 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-10 10:42:23.475  INFO 28946 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-10 10:42:23.879  INFO 28946 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-10 10:42:24.764  INFO 28946 --- [main] org.BatisExampleApp.BatisPetTests        : Started BatisPetTests in 4.938 seconds (JVM running for 6.537)
+2019-03-10 10:42:25.329  INFO 28946 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-10 10:42:25.334  INFO 28946 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-10 10:42:25.335  INFO 28946 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-10 10:44:35.800  INFO 29153 --- [main] org.BatisExampleApp.BatisPetTests        : Starting BatisPetTests on pc with PID 29153 (started by user in /mnt/Other/workspace/java/Spring.BOOT/BatisExampleApp)
+2019-03-10 10:44:35.802  INFO 29153 --- [main] org.BatisExampleApp.BatisPetTests        : No active profile set, falling back to default profiles: default
+2019-03-10 10:44:38.205  INFO 29153 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-10 10:44:38.623  INFO 29153 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-10 10:44:39.008  INFO 29153 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-10 10:44:39.731  INFO 29153 --- [main] org.BatisExampleApp.BatisPetTests        : Started BatisPetTests in 4.237 seconds (JVM running for 5.495)
+2019-03-10 10:44:40.289  INFO 29153 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-10 10:44:40.293  INFO 29153 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-10 10:44:40.294  INFO 29153 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

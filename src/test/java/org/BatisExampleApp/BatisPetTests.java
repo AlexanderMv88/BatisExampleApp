@@ -25,8 +25,9 @@ public class BatisPetTests{
 
 
 
+
 	@Test
-	public void test02_fillTableAndFindAll() throws InterruptedException {
+	public void test01_fillTableAndFindAll() throws InterruptedException {
 		List<Pet> pets = Arrays.asList(new Pet("Вольт"), new Pet("Блэк"), new Pet("Стэла"), new Pet("Мурзик"));
 		for (Pet pet:pets) {
 			petMapper.create(pet);
@@ -34,6 +35,8 @@ public class BatisPetTests{
 		System.out.println("pets = "+pets);
 		Assert.assertEquals(4, petMapper.findAll().size());
 	}
+
+
 
 
 	@Test
